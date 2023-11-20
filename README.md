@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Manmath17
 - 👀 I’m interested in learnig in programing languge
 - 🌱 I’m currently learning Masters of computer application
-- 💞️ I’m looking to collaborate on studying in programs
+- 💞️ I’m looking to collaborate on studying in programing languges
 - 📫 How to reach me manmathlandge2842@gmail.com
 
 <!---
